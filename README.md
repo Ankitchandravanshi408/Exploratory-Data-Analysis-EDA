@@ -1,1 +1,2 @@
 # Exploratory-Data-Analysis-EDA
+Exploratory Data Analysis (EDA) in machine learning involves the process of examining and visualizing data sets to understand their main characteristics, often before applying more complex modeling techniques. It aims to summarize the main features of the data, gain insights into the underlying structure, detect outliers and anomalies, and formulate hypotheses for subsequent modeling.
